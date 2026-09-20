@@ -41,16 +41,19 @@ I'm a **Civil Engineering student at ENSIT** (Tunis), fascinated by what happens
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00838f&height=3&section=header"/>
 
-## 🏗️ The Crane That Ate My Commits 🐍
+## 🌆 My GitWorld
 
 <div align="center">
 
-[![snake animation](https://raw.githubusercontent.com/Ahlem07/Ahlem07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Ahlem07)
-[![snake animation](https://raw.githubusercontent.com/Ahlem07/Ahlem07/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Ahlem07)
+### 🏗️ Turning Code into a Living City
 
-</div>
+<div align="center"> <img src="./loop.svg" width="80%" alt="Civil Engineering meets AI"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00838f&height=3&section=header"/>
+<i><b>Structural Engineering × Artificial Intelligence × Smart Cities</b></i>
+
+</div> <img src="https://capsule-render.vercel.app/api?type=transparent&color=00838f&height=3&section=header"/>
+
+> **Build code. Build projects. Build your city. 🌆**
 
 ## 🧰 Tech Stack
 
