@@ -47,7 +47,7 @@ I'm a **Civil Engineering student at ENSIT** (Tunis), fascinated by what happens
 
 ### 🏗️ Turning Code into a Living City
 
-<div align="center"> <img src="./loop(1).svg" width="80%" alt="Civil Engineering meets AI"/>
+<div align="center"> <img src="./loope.svg" width="80%" alt="Civil Engineering meets AI"/>
 
 <i><b>Structural Engineering × Artificial Intelligence × Smart Cities</b></i>
 
